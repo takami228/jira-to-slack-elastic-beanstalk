@@ -27,5 +27,6 @@ PROXY_URL="https://jira-to-slack.example.com" SLACK_WEBHOOK="https://mattermost.
     - Using `eb` commands
 - Add detail settings for AWS Elastic Beanstalk
     - Custom Domain
+    - SSL
     - Security Group
     - Logging to CloudWatchLogs or S3
