@@ -4,7 +4,7 @@ This repository is to run [jira-to-slack](https://github.com/takami228/jira-to-s
 
 # Set Up AWS Elastic Beanstalk
 
-Update zip file including Dockerfile and Dockerrun.aws.json at Single Docker Project at AWS Elastic Beanstalk.
+Upload zip file including `Dockerfile` and `Dockerrun.aws.json` at Single Docker Project at AWS Elastic Beanstalk.
 
 # E2E Test
 
